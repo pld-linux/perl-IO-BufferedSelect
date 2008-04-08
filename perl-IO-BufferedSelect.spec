@@ -9,7 +9,7 @@
 Summary:	IO::BufferedSelect - Line-buffered select interface
 Name:		perl-IO-BufferedSelect
 Version:	1.0
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
