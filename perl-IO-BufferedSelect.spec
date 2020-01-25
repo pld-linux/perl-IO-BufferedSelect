@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	IO
 %define	pnam	BufferedSelect
 Summary:	IO::BufferedSelect - Line-buffered select interface
